@@ -14,5 +14,6 @@ Cart shopping single demo developed in React Js and Redux as create-react-app.
 ```
 
 ## Author
-Gian Vallejos - Software Web Developer
-> [www.gvallejos.com](http://www.gvallejos.com)
+Gian Piere Vallejos B. - Software Web Developer
+> E-mail: gian.vallejos92@gmail.com
+> Website: [www.gvallejos.com](http://www.gvallejos.com)
