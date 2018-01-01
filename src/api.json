@@ -2,19 +2,19 @@
   "productos":[
     { "id": 1,
       "nombre": "Coca Cola Grande",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_01.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_01.jpg",
       "descripcion": "",
       "monto": 7.5
     },
     { "id": 2,
       "nombre": "Inca Cola Grande",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_02.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_02.jpg",
       "descripcion": "",
       "monto": 7.5
     },
     { "id": 3,
       "nombre": "Coca Cola Mediana",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_03.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_03.jpg",
       "descripcion": "",
       "monto": 2
     },
@@ -26,7 +26,7 @@
     },
     { "id": 4,
       "nombre": "Crema Dental Colgate",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_04.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_04.jpg",
       "descripcion": "",
       "monto": 12
     },
@@ -38,31 +38,31 @@
     },
     { "id": 5,
       "nombre": "Papas Lay Mediana",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_05.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_05.jpg",
       "descripcion": "",
       "monto": 1
     },
     { "id": 6,
       "nombre": "Bombones Corazón",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_06.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_06.jpg",
       "descripcion": "",
       "monto": 9
     },
     { "id": 7,
       "nombre": "Vizzio de Costa",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_07.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_07.jpg",
       "descripcion": "",
       "monto": 8
     },
     { "id": 8,
       "nombre": "Cañonazo",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_08.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_08.jpg",
       "descripcion": "",
       "monto": 1.5
     },
     { "id": 9,
       "nombre": "Chocman de Costa",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_09.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_09.jpg",
       "descripcion": "",
       "monto": 0.5
     },
@@ -74,7 +74,7 @@
     },
     { "id": 11,
       "nombre": "Galletas Frac",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_10.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_10.jpg",
       "descripcion": "",
       "monto": 1
     },
@@ -86,13 +86,13 @@
     },
     { "id": 12,
       "nombre": "Coca Cola Personal",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_03.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_03.jpg",
       "descripcion": "",
       "monto": 1
     },
     { "id": 13,
       "nombre": "Head & Shoulders",
-      "image": "http://gianvallejos.github.io/cartshop_2//productos/producto_12.jpg",
+      "image": "http://gianvallejos.github.io/cart_shopping/productos/producto_12.jpg",
       "descripcion": "",
       "monto": 18.5
     },
