@@ -1,17 +1,18 @@
 # CART SHOPPING
-> Cart shopping single demo developed in React Js and Redux as create-react-app.
+Cart shopping single demo developed in React Js and Redux as create-react-app.
 
 ## Build Setup
-
+``` bash
 # install dependencies
-npm install
+ npm install
 
 # serve to localhost:3000
-npm start
+ npm start
 
 # build for production with minification
-npm run predeploy
+ npm run predeploy
+```
 
 ## Author
-> Gian P. Vallejos - Software Web Developer
->[www.gvallejos.com](http://www.gvallejos.com)
+Gian Vallejos - Software Web Developer
+> [www.gvallejos.com](http://www.gvallejos.com)
