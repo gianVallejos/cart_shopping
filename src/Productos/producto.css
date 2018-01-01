@@ -1,0 +1,70 @@
+.ListaProductos{
+  background: #e2e2e2;
+  padding: 17px;
+  text-align: justify;
+  overflow: auto;
+  max-height: 653px;
+}
+
+.Producto{
+    position: relative;
+    border-radius: 6px;
+    width: 158px;
+    height: 140px;
+    background-color: #FFF;
+    overflow: hidden;
+    display: inline-block;
+    margin-bottom: 9px;
+    margin-right: 17px;
+    text-align: left;
+    cursor: pointer;
+    border: 1px solid #c3c3c3;
+}
+
+.Producto:hover{
+    animation-name: buttonAnim;
+    animation-duration: .3s;
+}
+
+@keyframes buttonAnim{
+    from{
+      opacity: 1;
+    }
+    50%{
+      opacity: .9;
+      transform: scale(1.1, 1.1);
+    }
+    to{
+      opacity: 1;
+    }
+}
+
+.Producto-Monto{
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background-color: #7ebea6;
+    padding: 0px 12px;
+    font-size: 12px;
+    z-index: 22;
+}
+
+.Producto-Imagen{
+    position: absolute;
+    margin: auto;
+    z-index: 21;
+    width: 158px;
+}
+
+.Producto-Nombre{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    z-index: 22;
+    font-size: 12px;
+    padding-left: 8px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+    font-weight: bold;
+    background: rgba( 255, 255, 255, .8)
+}

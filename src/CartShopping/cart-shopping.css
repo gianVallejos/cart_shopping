@@ -1,0 +1,31 @@
+.CartShopping{
+    background-color: white;
+    border-left: 4px solid #7a7a7a;
+}
+.CartShopping-listaCompras{
+    height: 548px;
+    font-size: 14px;
+    overflow: auto;
+}
+
+.CartShopping-datosCompras{
+    background: #c3c3c3;
+    border-top: 2px solid #000;
+    padding: 20px 0 24px;
+}
+
+.CartShopping-title{
+    color: #3f3f3f;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.CartShopping-subtotal{
+    font-family: 'Open Sans', sans-serif;
+    color: #3f3f3f;
+    font-size: 16px
+}
+
+.CartShopping-datoEntity{
+    padding-left: 30px;
+}
