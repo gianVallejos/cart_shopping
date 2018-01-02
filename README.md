@@ -1,5 +1,7 @@
 # CART SHOPPING
-Cart shopping single demo developed in React Js and Redux as create-react-app.
+Aplicación que simula un Shopping Cart desarrollado en React Js con Redux.
+
+Aplicación: https://gianvallejos.github.io/cart_shopping/
 
 ## Build Setup
 ``` bash
