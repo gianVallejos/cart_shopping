@@ -1,20 +1,20 @@
-# CART SHOPPING
+# SHOPPING CART
 Aplicación que simula un Shopping Cart desarrollado en React Js con Redux.
 
 Aplicación: https://gianvallejos.github.io/cart_shopping/
 
-## Build Setup
+## Instalación
 ``` bash
-# install dependencies
+# Instalación de Dependencias
  npm install
 
-# serve to localhost:3000
+# Correr en localhost:3000
  npm start
 
-# build for production with minification
+# Construir para producción con minificación
  npm run predeploy
 ```
 
-## Author
+## Autor
 Gian Piere Vallejos B. - Software Web Developer
 > Website: [www.gvallejos.com](http://www.gvallejos.com)
